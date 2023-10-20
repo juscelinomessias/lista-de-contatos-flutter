@@ -1,6 +1,6 @@
 ﻿# App Flutter Lista de Contatos
 
-A proposta do Desafio é criar uma aplicação de uma agenda de contatos, a qual irá exibir as informações dos contatos na forma de lista, incluindo as fotos das pessoas.
+A proposta do desafio foi criar um app de uma Agenda de contatos.  Além das informações do contato, também é possível incluir uma imagem. Foi utilizado o sqflite para armazenar todos os dados inseridos, incluindo o endereço local da imagem.  O usuário pode utilizar uma imagem da galeria ou gerar uma nova através da câmera do aparelho.
 
 ### Checklist do Desafio
 - [x] Criar uma aplicação Flutter​
