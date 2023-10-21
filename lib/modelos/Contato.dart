@@ -8,7 +8,7 @@ class Contato {
 
   Contato(this.id, this.nome, this.telefone, this.email, this.urlImagem);
 
-  // transforma dados de uma Map para um Contato
+  // transforma dados de um Map para um Contato
   Contato.fromMap(Map map) {
     id = map["id"];
     nome = map["nome"];

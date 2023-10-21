@@ -93,7 +93,7 @@ class _HomeContatosState extends State<HomeContatos> {
                                                 Icons.add,
                                                 size: 30,
                                                 color: Colors.black,
-                                              ), // icon
+                                              ),
                                             ],
                                           ),
                                         ),

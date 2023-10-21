@@ -355,7 +355,7 @@ class _AtualizarContatoState extends State<AtualizarContato> {
     // Remove o SnackBar caso esteja aberto
     ScaffoldMessenger.of(context).clearSnackBars();
 
-    // Exibe uma mensagem quando a Categora é criada
+    // Exibe uma mensagem quando o Contato é atualizado
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Padding(

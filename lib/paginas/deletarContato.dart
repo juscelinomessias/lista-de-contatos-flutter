@@ -242,7 +242,7 @@ class _DeletarContatoState extends State<DeletarContato> {
     // Remove o SnackBar caso esteja aberto
     ScaffoldMessenger.of(context).clearSnackBars();
 
-    // Exibe uma mensagem quando o Contato é criado
+    // Exibe uma mensagem quando o Contato é excluído
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Padding(
